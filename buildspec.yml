@@ -1,0 +1,14 @@
+version: 0.1
+
+pahases:
+  build:
+    commands:
+      -echo Nother to do yet
+
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - CV_NaLi.pdf
+    - styles/main.css
+    - images/*
