@@ -11,6 +11,6 @@ pahases:
 artifacts:
   files:
     - favicon.ico
+    - index.html
     - styles/main.css
     - images/*
- 
