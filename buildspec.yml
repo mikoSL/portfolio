@@ -16,4 +16,4 @@ artifacts:
     - images/*
     - dist/bundle.js
     - CV_NaLi.pdf
-    - js/*
+  
