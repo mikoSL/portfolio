@@ -10,4 +10,7 @@ pahases:
       - npm webpack
 artifacts:
   files:
-  
+    - favicon.ico
+    - styles/main.css
+    - images/*
+ 
