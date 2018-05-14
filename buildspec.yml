@@ -10,10 +10,4 @@ pahases:
       - npm webpack
 artifacts:
   files:
-    - index.html
-    - favicon.ico
-    - CV_NaLi.pdf
-    - styles/main.css
-    - images/*
-    - dist/bundle.js
   
