@@ -7,10 +7,12 @@ pahases:
       - npm test
   build:
     commands:
-      - npm webpack
+      - npm run webpack
 artifacts:
   files:
     - favicon.ico
     - index.html
     - styles/main.css
     - images/*
+    - dist/bundle.js
+    - CV_NaLi.pdf
