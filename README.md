@@ -1,6 +1,6 @@
 # portfolio
 
-serverless portfolio website with aws and react
+This project is based on the tutorial of A cloud guru Ltd -- "Create a serverless portfolio with AWS and React" by Robin Norwood. It is a 5 star turorial. Highly recommended!
 
 # Technologies used
 
